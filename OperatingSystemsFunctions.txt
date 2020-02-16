@@ -5,3 +5,7 @@ Most operating systems can multitask by running many applications at once.
 The operating system manages the Primary Memory or Main Memory.
 Main memory is made up of a large array of bytes or words where each byte or word is assigned a certain address.
 Main memory is a fast storage and it can be accessed directly by the CPU. 
+
+A file system is organized into directories for efficient or easy navigation and usage.
+These directories may contain other directories and other files.
+An Operating System carries out the following file management activities.
