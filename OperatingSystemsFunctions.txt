@@ -1,0 +1,3 @@
+One operating system function is the ability to run applications.
+It is the ability to run an application such as Word processor by locating it and loading it into the primary memory. 
+Most operating systems can multitask by running many applications at once.
